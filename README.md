@@ -16,8 +16,6 @@
 
 Software Engineer, Autodidata e Estudante de Análise e Desenvolvimento de Sistemas na [Universidade Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/). Entusiasta de Computadores e Apaixonado por Desenvolvimento de Softwares.
 
-<br>
-
 ## Sobre mim
 
 - Sou Apaixonado por C/C++.
