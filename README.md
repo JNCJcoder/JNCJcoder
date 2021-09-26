@@ -18,8 +18,8 @@ Software Engineer, Autodidata e Estudante de Análise e Desenvolvimento de Siste
 
 ## Sobre mim
 
-- Sou Apaixonado por C/C++.
-- Sou desenvolvedor BackEnd com alto conhecimento de FrontEnd.
-- Programo em JS/TS e Python no BackEnd.
-- Cursei Web Developer no passado, mas meu foco é Desenvolvimento BackEnd e Desktop.
+- Sou apaixonado por C/C++.
+- Sou desenvolvedor Backend com bom conhecimento de Frontend.
+- Programo em JavaScript/TypeScript e Python no Backend.
+- Cursei Web Developer no passado, mas meu foco é desenvolvimento Backend e Desktop.
 - Procuro colaborar em projetos open-source quando posso.
