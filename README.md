@@ -14,7 +14,7 @@
 </a>
 <br>
 
-Software Engineer, Autodidata e Estudante de Análise e Desenvolvimento de Sistemas na [Universidade Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/). Entusiasta de Computadores e Apaixonado por Desenvolvimento de Softwares.
+Autodidata e Estudante de Análise e Desenvolvimento de Sistemas na [Universidade Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/). Entusiasta de Computadores e Apaixonado por Desenvolvimento de Softwares.
 
 ## Sobre mim
 
