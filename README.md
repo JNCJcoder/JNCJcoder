@@ -18,7 +18,7 @@ Autodidata e Estudante de Análise e Desenvolvimento de Sistemas na [Universidad
 
 ## Sobre mim
 
-- Sou apaixonado por C/C++.
+- Sou apaixonado por C/C++, porem atualmente estou focando em JavaScript e Python.
 - Sou desenvolvedor Backend com bom conhecimento de Frontend.
 - Programo em JavaScript/TypeScript e Python no Backend.
 - Cursei Web Developer no passado, mas meu foco é desenvolvimento Backend e Desktop.
