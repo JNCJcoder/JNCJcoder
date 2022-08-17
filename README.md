@@ -1,6 +1,6 @@
 # Olá, eu sou Jorge 👋
 
-<a href="https://www.linkedin.com/in/jorge-netto-camara-j%C3%BAnior-10b34b201/">
+<a href="https://www.linkedin.com/in/jncjcoder/">
       <img 
         alt="Jorge" 
         src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" 
