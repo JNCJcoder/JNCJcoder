@@ -22,4 +22,3 @@ Autodidata e Estudante de Análise e Desenvolvimento de Sistemas na [Universidad
 - Sou desenvolvedor Backend com bom conhecimento de Frontend.
 - Programo em JavaScript/TypeScript e Python no Backend.
 - Cursei Web Developer no passado, mas meu foco é desenvolvimento Backend e Desktop.
-- Procuro colaborar em projetos open-source quando posso.
