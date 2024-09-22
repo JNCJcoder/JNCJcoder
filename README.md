@@ -1,26 +1,20 @@
 # Olá, eu sou Jorge 👋
 
-<a href="https://www.linkedin.com/in/jncjcoder/">
-      <img 
-        alt="Jorge" 
-        src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" 
-      />
-</a>
-<a href="mailto:jorgenettocjunior@gmail.com">
-      <img 
-        alt="jorgenettocjunior@gmail.com" 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jorgenettocjunior@gmail.com" 
-      />
-</a>
-<br>
+Sou um programador autodidata e versátil, entusiasta de computadores e apaixonado por desenvolvimento de software.
 
-Programador autodidata, formado em Analise e Desenvolvimento de Sistemas pela [Universidade Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/). Entusiasta de Computadores e Apaixonado por Desenvolvimento de Softwares.
+## 🌟 Sobre Mim
 
-## Sobre mim
+Tenho experiência em diversas áreas, sempre em busca de novos desafios e aprendizado contínuo. Abaixo, estão minhas principais habilidades e experiências:
 
-- Sou um desenvolvedor Web com foco em BackEnd, mas com bons conhecimentos de FrontEnd.
-- Programo em BackEnd em diversas linguagens, mas geralmente em JavaScript/TypeScript ou Python.
-- Programo em Desktop principalmente com C e C++, mas já fiz diversos projetos em VisualBASIC(VB6, VBNET), BASIC, BatchScript e ShellScript.
-- Estudo/Estudei ASM de diversos CPUs, e possuo pequenos programas em alguns, como 6502, i8080(i8085, Z80), i8086 e ARM7.
-- Já programei para Sistemas Embarcados.
-- Gosto muito da área de Hacking.
+- **Programação Desktop**: Experiente com **C** e **C++**, além de **Desenvolvimento de Scripts** em **Python**, **BatchScript** e **ShellScript**.
+- **Desenvolvimento Web**: Foco em **BackEnd**, usando **JavaScript/TypeScript**, **Python**, **Java** e **C#**. Tenho amplo conhecimento em **Frameworks** como **NestJS**, **Flask**, **Spring** e **ASP.NET**, também em integração com bancos de dados **SQL** e **NoSQL**.
+- **Sistemas Embarcados**: Familiaridade com **Arduino**, **z80** e **ARM7**.
+- **Desenvolvimento com Assembly**: Experiência em **6502**, **i8080/i8085**, **z80**, **i8086** e **ARM7**.
+- **Desenvolvimento Legado**: Trabalhos e projetos usando **Object Pascal (Delphi/Lazarus)**, **BASIC**, **QuickBASIC** e **VisualBASIC (VB5, VB6, VB.NET)**.
+- **Hacking e Segurança**: Busco expandir o conhecimento em **Segurança da Informação**, com foco em **Análise de Vulnerabilidades**.
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/jncjcoder)
+- [E-Mail](mailto:jorgenettocjunior@gmail.com)
+- [Portfólio](https://jncjcoder.github.io/site)
