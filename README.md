@@ -1,6 +1,13 @@
 # Olá, eu sou Jorge 👋
 
-Sou um programador autodidata e versátil, entusiasta de computadores e apaixonado por desenvolvimento de software.
+Sou um programador autodidata, entusiasta de computadores e apaixonado por desenvolvimento de software.
+
+## 🌟 Sobre Mim
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+💻 **Técnico em Informática**
+👨‍💻 **Tenho experiência em diversas áreas da Programação, como Desenvolvimento WEB, Mobile, Desktop e Embarcados**
+📚 **Estou sempre estudando e me atualizando**
 
 ## 📫 Contato
 
