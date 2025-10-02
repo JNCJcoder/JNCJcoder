@@ -2,6 +2,8 @@
 
 Sou um programador autodidata, entusiasta de computadores e apaixonado por desenvolvimento de software.
 
+- [Meu Gist](https://gist.github.com/JNCJcoder)
+
 ## 🌟 Sobre Mim
 
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
